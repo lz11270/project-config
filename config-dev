@@ -1,0 +1,4 @@
+config:
+  info: config-dev
+  version: 1.0v
+  
