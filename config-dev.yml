@@ -1,4 +1,3 @@
 config:
-  info: config-dev
-  version: 1.0v
+  info: "master-config-dev,version:1.0V"
   
